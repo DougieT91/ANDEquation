@@ -1,9 +1,9 @@
 # ANDEquation
 #### to run the program, 
 ### first, copy the ANDEquation.jar file from the directory /out/artifacts/ANDEquation_jar/ to your desired root directory
-###second, open the terminal and type the command 
+### second, open the terminal and type the command 
 
-##java -jar ANDEquation.jar  <input.txt> <output.txt>
+## java -jar ANDEquation.jar  <input.txt> <output.txt>
 
 ### The <input.txt> <output.txt> values should either be
 
