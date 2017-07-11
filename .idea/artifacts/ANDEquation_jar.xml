@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ANDEquation:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ANDEquation_jar</output-path>
+    <root id="archive" name="ANDEquation.jar">
+      <element id="module-output" name="ANDEquation" />
+    </root>
+  </artifact>
+</component>
